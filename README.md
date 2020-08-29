@@ -8,6 +8,4 @@
 
 - Data is stored in a mySQL database.
 
-- The app is deployed to a server for each testing.
-
 - SQL injection is defended against!
